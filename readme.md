@@ -8,7 +8,7 @@ I enjoy building real projects, solving hard problems, and constantly improving 
 
 - FTC Robotics programmer at **InfotronX #19119**
 - **Programming Department Coordinator** in my team
-- **NASA Space Apps Challenge Global Nominee** (2024, 2025)
+- **2x NASA Space Apps Challenge Global Nominee** (2024, 2025)
 - Aspiring **Data Scientist**
 - Interested in **Python, Java, C++, robotics, algorithms, and mathematics**
 
@@ -33,9 +33,19 @@ Git • GitHub • Android Studio • FTC SDK • pandas • matplotlib
 Award-winning FTC robotics code developed for competition season.  
 Built with Java and focused on real robot behavior, control, and autonomous logic.
 
-### NASA Space Apps Challenge
-Space-related project created for NASA Space Apps Challenge.  
-Focused on problem solving, teamwork, and building a functional technical solution.
+### NASA Space Apps Challenge 2025–2026
+An interactive multi-asteroid impact simulator built for the NASA Space Apps Challenge.  
+Focused on scientific visualization, user interaction, and real-world educational exploration.
+Built as part of a team project recognized internationally as a **Global Nominee**.
+
+### NASA Space Apps Challenge 2024–2025
+An interactive space-themed web application developed for the NASA Space Apps Challenge.  
+Built around planets, visual exploration, and front-end interaction.
+Also part of a team project recognized internationally as a **Global Nominee**.
+
+### MathHard
+A large personal project centered on mathematics, problem solving, and technical experimentation.  
+It brings together mathematical ideas, interactive elements, and educational development in a single growing codebase.
 
 ## Current goals
 
@@ -43,14 +53,6 @@ Focused on problem solving, teamwork, and building a functional technical soluti
 - Grow from competitive programming / robotics into data science
 - Study at **UBB Faculty of Mathematics and Computer Science**
 - Keep improving every year through challenging projects
-
-## GitHub goals
-
-On this profile, I want to showcase:
-- robotics projects
-- data science projects
-- useful tools and experiments
-- progress over time
 
 ## Contact
 
