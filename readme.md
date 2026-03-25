@@ -44,8 +44,8 @@ Built around planets, visual exploration, and front-end interaction.
 Also part of a team project recognized internationally as a **Global Nominee**.
 
 ### MathHard
-A large personal project centered on mathematics, problem solving, and technical experimentation.  
-It brings together mathematical ideas, interactive elements, and educational development in a single growing codebase.
+A personal mathematics-focused project built around problem solving, educational development, and technical experimentation.  
+Designed as a growing project where I combine mathematical ideas with code and structured learning.
 
 ## Current goals
 
