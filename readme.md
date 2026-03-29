@@ -43,6 +43,10 @@ An interactive space-themed web application developed for the NASA Space Apps Ch
 Built around planets, visual exploration, and front-end interaction.
 Also part of a team project recognized internationally as a **Global Nominee**.
 
+### FTC Programming Atlas
+Interactive node-based documentation website for FTC programming concepts, built as a visual learning atlas for future team generations.  
+It helps organize robotics knowledge through connected topics like TeleOp, Autonomous, PID, Localization, and troubleshooting.  
+
 ### MathHard
 A large gamified mathematics learning platform built around lessons, problem solving, exams, and interactive educational tools.  
 It combines mathematics, programming, and structured learning in a complex web-based project.
